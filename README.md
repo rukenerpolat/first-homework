@@ -1,6 +1,5 @@
 <h1 align="center">HTML Ödevi: İnteraktif Login ve Signup Sayfaları</h1>
-
->Bu repo, bootcamp ödevi için yapılmıştır.
+<h6 align="center"> [Bu repo, Insider&Testinium Tech Hub Developer Bootcamp ödevi için yapılmıştır.]</h6>
 
 ![image](https://github.com/user-attachments/assets/1137a602-3151-4de1-8417-677b50b4ff71)
 ![image](https://github.com/user-attachments/assets/79886f92-85be-4b53-bec8-7a5df28001ad)   
